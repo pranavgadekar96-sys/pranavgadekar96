@@ -126,16 +126,15 @@ MongoDB • MySQL • AWS • GraphQL
 
 ## 🐍 Contribution Graph
 
+## 🐍 Contribution Graph
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/main/dist/github-contribution-grid-snake.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/main/dist/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/main/dist/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/main/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/main/dist/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/main/dist/github-contribution-grid-snake.svg">
-</picture>
-
 ---
 
 ## ✨ Thanks for visiting my profile!
