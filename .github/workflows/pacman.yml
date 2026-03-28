@@ -1,0 +1,31 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+
+    steps:
+      # ✅ REQUIRED STEP
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: pranavgadekar96
+          outputs: |
+            output/pacman-contribution-graph.svg
+            output/pacman-contribution-graph-dark.svg?palette=github-dark
+
+      - name: Push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "output/*"
+          message: "Generate Pacman graph"
