@@ -1,7 +1,6 @@
 <!-- 🎨 Banner -->
 <p align="center">
-  <img src=""https://github.com/pranavgadekar96-sys/pranavgadekar96/blob/main/readme%20banner.png" />
-ar 28, 2026, 10_31_54 PM.png"" alt="Pranav Banner"/>
+  <img src=""banner.png"" alt="Pranav Banner"/>
 </p>
 
 <!-- 🔥 Typing Animation -->
