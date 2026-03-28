@@ -124,11 +124,19 @@ MongoDB • MySQL • AWS • GraphQL
 
 ---
 
-
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/main/dist/github-contribution-grid-snake.svg">
+  <picture>
+    <!-- 🌙 Dark Mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranavgadekar96/pranavgadekar96/main/dist/github-contribution-grid-snake-dark.svg">
+    
+    <!-- ☀️ Light Mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranavgadekar96/pranavgadekar96/main/dist/github-contribution-grid-snake.svg">
+    
+    <!-- Default -->
+    <img alt="snake animation" src="https://raw.githubusercontent.com/pranavgadekar96/pranavgadekar96/main/dist/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 ---
 
