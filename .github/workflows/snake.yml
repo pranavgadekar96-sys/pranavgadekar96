@@ -12,6 +12,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # ✅ IMPORTANT STEP (you missed this)
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -20,7 +24,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to repo
+      - name: Push changes
         uses: EndBug/add-and-commit@v9
         with:
           add: "dist/*"
