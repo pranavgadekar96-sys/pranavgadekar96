@@ -1,6 +1,7 @@
 <!-- 🎨 Banner -->
 <p align="center">
-  <img src=""C:\Users\Pranav Gadekar\Downloads\ChatGPT Image Mar 28, 2026, 10_31_54 PM.png"" alt="Pranav Banner"/>
+  <img src=""<img width="1536" height="1024" alt="ChatGPT Image Mar 28, 2026, 10_31_54 PM" src="https://github.com/user-attachments/assets/346982bf-992c-4ff1-9e9a-e156f30fb174" />
+ar 28, 2026, 10_31_54 PM.png"" alt="Pranav Banner"/>
 </p>
 
 <!-- 🔥 Typing Animation -->
