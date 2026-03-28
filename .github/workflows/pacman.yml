@@ -2,26 +2,28 @@ name: Advanced Pacman Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # runs every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write   # 🔥 IMPORTANT FIX
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pacman + Ghost Style Graph
+      - name: Generate Pacman Graph
         uses: Platane/snk@v3
         with:
           github_user_name: pranavgadekar96-sys
           outputs: |
-            dist/pacman.svg?palette=github
+            dist/pacman.svg
             dist/pacman-dark.svg?palette=github-dark
             dist/pacman-ghost.svg?color_snake=#FFD700&color_dots=#FF0000,#00FFFF,#FF69B4,#FFA500
-            dist/pacman-neon.svg?color_snake=#00FFAA&color_dots=#FF00FF,#00FFFF,#FFFF00
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4   # ✅ updated version
         with:
           target_branch: output
           build_dir: dist
