@@ -125,18 +125,20 @@ MongoDB • MySQL • AWS • GraphQL
 ---
 
 ## 🐍 Contribution Graph
+## 🟡 Pac-Man Contribution Game 👻
 
 <p align="center">
-  <picture>
-    <!-- 🌙 Dark Mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranavgadekar96/pranavgadekar96/main/dist/github-contribution-grid-snake-dark.svg">
-    
-    <!-- ☀️ Light Mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranavgadekar96/pranavgadekar96/main/dist/github-contribution-grid-snake.svg">
-    
-    <!-- Default -->
-    <img alt="snake animation" src="https://raw.githubusercontent.com/pranavgadekar96/pranavgadekar96/main/dist/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/output/pacman.svg">
+</p>
+
+### 👻 Ghost Mode
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/output/pacman-ghost.svg">
+</p>
+
+### 🌈 Neon Mode
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/output/pacman-neon.svg">
 </p>
 ---
 
