@@ -1,7 +1,9 @@
 <!-- 🎨 Banner -->
 <p align="center">
-  <img src=""banner.png"" alt="Pranav Banner"/>
+  <img src="banner.png" alt="Pranav Banner"/>
 </p>
+
+<br>
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
