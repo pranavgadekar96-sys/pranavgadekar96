@@ -140,6 +140,11 @@ MongoDB • MySQL • AWS • GraphQL
 <p align="center">
   <img src="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/output/pacman-neon.svg">
 </p>
+
+### 🌈 Neon Mode
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/output/pacman-neon.svg">
+</p>
 ---
 
 ## ✨ Thanks for visiting my profile!
