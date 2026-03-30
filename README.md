@@ -125,26 +125,14 @@ MongoDB • MySQL • AWS • GraphQL
 ---
 
 ## 🐍 Contribution Graph
-## 🟡 Pac-Man Contribution Game 👻
+## 🟡 Snake Animation Game 🐍
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/output/pacman.svg">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/output/github-contribution-grid-snake.svg">
+</picture>
 
-### 👻 Ghost Mode
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/output/pacman-ghost.svg">
-</p>
-
-### 🌈 Neon Mode
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/output/pacman-neon.svg">
-</p>
-
-### 🌈 Neon Mode
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pranavgadekar96-sys/pranavgadekar96-sys/output/pacman-neon.svg">
-</p>
 ---
 
 ## ✨ Thanks for visiting my profile!
